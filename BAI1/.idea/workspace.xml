@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb93e310-383c-431c-ace9-80d23a5ccaec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DisplayImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertMoney.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,11 +50,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DisplayImage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ConvertMoney.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,6 +136,7 @@
         <option value="$PROJECT_DIR$/src/PrintPrime.java" />
         <option value="$PROJECT_DIR$/src/Display20Prime.java" />
         <option value="$PROJECT_DIR$/src/DisplayImage.java" />
+        <option value="$PROJECT_DIR$/src/ConvertMoney.java" />
       </list>
     </option>
   </component>
@@ -179,9 +193,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DisplayImage">
+  <component name="RunManager" selected="Application.ConvertMoney">
     <configuration name="BMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BMI" />
+      <module name="BAI1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvertMoney" />
       <module name="BAI1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -196,13 +217,6 @@
     </configuration>
     <configuration name="DisplayImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DisplayImage" />
-      <module name="BAI1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MoneyPay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MoneyPay" />
       <module name="BAI1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -224,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertMoney" />
         <item itemvalue="Application.DisplayImage" />
         <item itemvalue="Application.Display20Prime" />
         <item itemvalue="Application.PrintPrime" />
         <item itemvalue="Application.BMI" />
-        <item itemvalue="Application.MoneyPay" />
       </list>
     </recent_temporary>
   </component>
@@ -244,12 +258,12 @@
       <updated>1559544749609</updated>
       <workItem from="1559544754053" duration="11113000" />
       <workItem from="1559577028299" duration="5650000" />
-      <workItem from="1559610484224" duration="3041000" />
+      <workItem from="1559610484224" duration="3596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19804000" />
+    <option name="totallyTimeSpent" value="20359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -264,7 +278,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31230283" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31230283" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38485804" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -486,6 +500,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConvertMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
