@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3934af84-80ee-4fe3-a9c0-6cd0cc56eb9c" name="Default Changelist" comment="" />
+    <list default="true" id="3934af84-80ee-4fe3-a9c0-6cd0cc56eb9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/RevertArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RevertArray.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +53,16 @@
         <entry file="file://$PROJECT_DIR$/src/RevertArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+              <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InsertValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -74,6 +85,7 @@
         <option value="$PROJECT_DIR$/src/ConvertTemperature.java" />
         <option value="$PROJECT_DIR$/src/FindValue.java" />
         <option value="$PROJECT_DIR$/src/MaxArray.java" />
+        <option value="$PROJECT_DIR$/src/InsertValue.java" />
         <option value="$PROJECT_DIR$/src/RevertArray.java" />
       </list>
     </option>
@@ -151,6 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InsertValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertValue" />
+      <module name="BAI2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MaxArray" />
       <module name="BAI2" />
@@ -168,6 +187,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.RevertArray" />
+        <item itemvalue="Application.InsertValue" />
         <item itemvalue="Application.MaxArray" />
         <item itemvalue="Application.FindValue" />
         <item itemvalue="Application.ConvertTemperature" />
@@ -186,12 +206,12 @@
       <updated>1559634373054</updated>
       <workItem from="1559634375767" duration="117000" />
       <workItem from="1559636845202" duration="6440000" />
-      <workItem from="1559658906236" duration="1739000" />
+      <workItem from="1559658906236" duration="4102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8296000" />
+    <option name="totallyTimeSpent" value="10659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -259,10 +279,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/InsertValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/RevertArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
         </state>
       </provider>
     </entry>
