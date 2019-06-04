@@ -11,7 +11,6 @@ public class FindValue {
         }else {
             System.out.println(inputName+" Nam o vi tri "+(findName(inputName,students)+1));
         }
-
     }
     public static int findName(String name, String[] arr) {
     int index = -1;
