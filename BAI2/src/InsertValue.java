@@ -1,21 +1,28 @@
+import java.util.Scanner;
+
 public class InsertValue {
     public static void main(String[] args) {
-    int[]inputArray={1,2,3,4,0,0,0};
-    insertValue(3,16,inputArray);
-    for(int i=0;i<inputArray.length;i++){
-        System.out.println(inputArray[i]+" ");
-    }
-    }
-
-    public static void insertValue(int index,int value, int[] arr) {
-        if ((index < 0) && (index > arr.length - 1))
+        int[] inputArr = {1, 2, 3, 4, 5, 0, 0, 0};
+        int[] newArr = new int[inputArr.length];
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Nhap index:");
+        int index = scanner.nextInt();
+        System.out.println("Nhap value:");
+        int value = scanner.nextInt();
+        if ((index < 0) && (index > inputArr.length))
             System.out.println("Khong chen dc");
         else {
-            for (int i = index+1; i < arr.length - 2; i++) {
-                arr[i]=arr[i];
+            for (int i = 0; i < index; i++) {
+                newArr[i] = inputArr[i];
             }
-            arr[index]=value;
+            newArr[index] = value;
+            for (int i = index + 1; i < newArr.length; i++) {
+                newArr[i] = inputArr[i - 1];
+            }
         }
 
+        for (int i = 0; i < newArr.length; i++) {
+            System.out.print(newArr[i] + " ");
+        }
     }
 }
