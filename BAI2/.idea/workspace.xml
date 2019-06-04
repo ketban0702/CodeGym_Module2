@@ -65,11 +65,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Max2Array.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CountStudent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -105,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/MinArray.java" />
         <option value="$PROJECT_DIR$/src/InsertValue.java" />
         <option value="$PROJECT_DIR$/src/Max2Array.java" />
+        <option value="$PROJECT_DIR$/src/CountStudent.java" />
       </list>
     </option>
   </component>
@@ -166,7 +176,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Max2Array">
+  <component name="RunManager" selected="Application.CountStudent">
+    <configuration name="CountStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountStudent" />
+      <module name="BAI2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InsertValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InsertValue" />
       <module name="BAI2" />
@@ -176,13 +193,6 @@
     </configuration>
     <configuration name="Max2Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Max2Array" />
-      <module name="BAI2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxArray" />
       <module name="BAI2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -204,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountStudent" />
         <item itemvalue="Application.Max2Array" />
         <item itemvalue="Application.InsertValue" />
         <item itemvalue="Application.MinArray" />
         <item itemvalue="Application.RevertArray" />
-        <item itemvalue="Application.MaxArray" />
       </list>
     </recent_temporary>
   </component>
@@ -224,12 +234,12 @@
       <updated>1559634373054</updated>
       <workItem from="1559634375767" duration="117000" />
       <workItem from="1559636845202" duration="6440000" />
-      <workItem from="1559658906236" duration="6668000" />
+      <workItem from="1559658906236" duration="7323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13225000" />
+    <option name="totallyTimeSpent" value="13880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -322,6 +332,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
         </state>
       </provider>
     </entry>
