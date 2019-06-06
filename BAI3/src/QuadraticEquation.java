@@ -44,11 +44,11 @@ public class QuadraticEquation {
     //main
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        QuadraticEquation Obj = new QuadraticEquation(1, 5, 6);
+        QuadraticEquation Obj = new QuadraticEquation(1.0, 3, 1);
         double denta = Obj.getDiscriminant();
         if (Obj.getA() != 0) {
             if (denta < 0)
-                System.out.println("PT vo nghiem");
+                System.out.println("The equation has no roots");
             else {
                 double r1 = Obj.getRoot1();
                 double r2 = Obj.getRoot2();
