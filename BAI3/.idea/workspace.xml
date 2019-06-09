@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2c615e4-0609-4545-afc9-268cb15ff1c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Fan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="44" />
+            <state relative-caret-position="374">
+              <caret line="31" column="44" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="44" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#416#417#0" expanded="true" />
@@ -38,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QuadraticEquation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+            <state relative-caret-position="884">
+              <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
               <folding>
                 <element signature="e#281#282#0" expanded="true" />
                 <element signature="e#310#311#0" expanded="true" />
@@ -55,12 +54,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StopWatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="136">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
               <folding>
+                <element signature="e#103#104#0" expanded="true" />
                 <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
                 <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
                 <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
                 <element signature="e#625#626#0" expanded="true" />
               </folding>
             </state>
@@ -70,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Fan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="71" column="30" lean-forward="true" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+            <state relative-caret-position="484">
+              <caret line="80" selection-start-line="80" selection-end-line="80" />
               <folding>
                 <element signature="e#305#306#0" expanded="true" />
                 <element signature="e#333#334#0" expanded="true" />
@@ -130,6 +133,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,7 +151,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,16 +222,16 @@
       <updated>1559730302442</updated>
       <workItem from="1559730306753" duration="9000" />
       <workItem from="1559747408558" duration="6133000" />
-      <workItem from="1559783189443" duration="6418000" />
+      <workItem from="1559783189443" duration="7037000" />
+      <workItem from="1559803847166" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12560000" />
+    <option name="totallyTimeSpent" value="13219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -239,7 +242,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329653" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -267,8 +270,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="44" />
+        <state relative-caret-position="374">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="44" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#416#417#0" expanded="true" />
@@ -283,8 +286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QuadraticEquation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        <state relative-caret-position="884">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
           <folding>
             <element signature="e#281#282#0" expanded="true" />
             <element signature="e#310#311#0" expanded="true" />
@@ -298,12 +301,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StopWatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="136">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding>
+            <element signature="e#103#104#0" expanded="true" />
             <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
             <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
             <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
             <element signature="e#625#626#0" expanded="true" />
           </folding>
         </state>
@@ -311,8 +318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Fan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="71" column="30" lean-forward="true" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+        <state relative-caret-position="484">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
           <folding>
             <element signature="e#305#306#0" expanded="true" />
             <element signature="e#333#334#0" expanded="true" />
