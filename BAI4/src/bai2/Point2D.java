@@ -26,7 +26,7 @@ public class Point2D {
         this.y = y;
     }
 
-    float[][]array=new float[20][2];
+    float[][]array=new float[20][3];
     int i=0;
     public void setXY(float x,float y){
         this.x=x;

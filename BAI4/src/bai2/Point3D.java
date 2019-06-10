@@ -15,19 +15,16 @@ public class Point3D extends Point2D {
     public void setZ(float z) {
         this.z = z;
     }
-        int j=0;
-    float[][]array2=new float[20][3];
+        int i=0;
     public void setXYZ(float x, float y, float z) {
         super.setXY(x, y);
         this.z = z;
-        array2[j][0]=super.getX();
-        array2[j][1]=super.getY();
-        array2[j][2]=this.z;
-        j++;
+        array[i][2]=this.z;
+        i++;
     }
 
     public float[][] getXYZ(){
-        return array2;
+        return array;
     }
     @Override
     public String toString(){
