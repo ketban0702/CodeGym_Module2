@@ -15,6 +15,7 @@ creditLimit float NULL,
 salesRepEmployeeNumber int NOT NULL,
 FOREIGN KEY (salesRepEmployeeNumber) REFERENCES employees (employeeNumber)
 );
+
 /*---Tao bang orders , khoa chinh orderNumber  --ok----*/
 CREATE TABLE orders  (
 orderNumber   int NOT NULL primary key,
@@ -56,7 +57,7 @@ image text NOT NULL,
 htmlDescription text NOT NULL
 );
 /*---Tao bang employees    , khoa chinh employeeNumber    ---ok----*/
-CREATE TABLE employees  (
+create table employees (
 employeeNumber  int NOT NULL primary key,
 lastName varchar(50) NOT NULL,
 firstName varchar(50) NOT NULL,
@@ -65,8 +66,12 @@ jobTitle varchar(50) NOT NULL,
 reportTo int NOT NULL,
 officeCode  varchar(10) NOT NULL,
 extension int NOT NULL,
-FOREIGN KEY (officeCode) REFERENCES offices (officeCode)
+FOREIGN KEY (officeCode) REFERENCES offices (officeCode),
+FOREIGN KEY (reportTo) REFERENCES employees (employeeNumber)
 );
+select * from employees;
+alter table employees
+add constraint employees_employees_fk2 foreign key (reportTo) REFERENCES employees (employeeNumber);
 /*---Tao bang offices , khoa chinh officeCode     ----ok----*/
 CREATE TABLE offices   (
 officeCode  varchar(10) NOT NULL primary key,
