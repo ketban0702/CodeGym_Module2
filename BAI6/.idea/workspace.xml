@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="259124f1-5cfa-4670-ae69-6d7736ae2216" name="Default Changelist" comment="" />
+    <list default="true" id="259124f1-5cfa-4670-ae69-6d7736ae2216" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thuchanh1/Test.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +16,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/thuchanh1/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,14 +40,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
@@ -72,7 +54,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,21 +61,11 @@
               <item name="BAI6" type="b2602c69:ProjectViewProjectNode" />
               <item name="BAI6" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BAI6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BAI6" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BAI6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BAI6" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="thuchanh1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -172,11 +143,13 @@
       <workItem from="1560481272472" duration="895000" />
       <workItem from="1560505098798" duration="888000" />
       <workItem from="1560762544674" duration="2000" />
+      <workItem from="1560915936002" duration="88000" />
+      <workItem from="1560916569539" duration="98000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10073000" />
+    <option name="totallyTimeSpent" value="10259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -219,13 +192,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/thuchanh1/AAA.java" />
     <entry file="file://$PROJECT_DIR$/src/thuchanh1/BB.java" />
-    <entry file="file://$PROJECT_DIR$/src/thuchanh1/AA.java" />
     <entry file="file://$PROJECT_DIR$/src/thuchanh1/Animal.java" />
     <entry file="file://$PROJECT_DIR$/src/thuchanh1/A4.java" />
     <entry file="file://$PROJECT_DIR$/src/thuchanh1/Person.java" />
     <entry file="file://$PROJECT_DIR$/src/thuchanh1/Employee.java" />
     <entry file="file://$PROJECT_DIR$/BAI6.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thuchanh1/aa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thuchanh1/Test.java">
       <provider selected="true" editor-type-id="text-editor">
