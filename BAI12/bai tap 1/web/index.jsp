@@ -12,15 +12,10 @@
     <title>Danh sách khách hàng</title>
   </head>
   <body>
+  <form method="post" action="index" >
     <h1>Danh sách khách hàng</h1>
-    <table border="1">
-      <tr>
-        <td>  Tên  </td>
-        <td>  Ngày sinh  </td>
-        <td>  Địa chỉ  </td>
-        <td>  Ảnh  </td>
-      </tr>
+    <input type="submit" value="Hien thi">
+  </form>
 
-    </table>
   </body>
 </html>
